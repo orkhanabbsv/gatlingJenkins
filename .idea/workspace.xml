@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d25ce98-b29f-4d97-818b-7d66f4edc016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/bodies/newGameTemplate.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/data/gameCSVFile.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/VideoGameDbSimulation.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/csvfeeders/CSVFeeder.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/csvfeeders/ComplexCustomFeeder.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/csvfeeders/CustomFeeder.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/finalSimulation/VideoGameFullTest.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/scriptfundamentals/AddPauseTime.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/scriptfundamentals/Authenticate.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/scriptfundamentals/CheckResponseBodyAndExtract.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/scriptfundamentals/CheckResponseCode.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/scriptfundamentals/CodeReuse.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/simulations/BaseLoadSimulation.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/simulations/FixedLoadSimulations.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/simulations/RampLoadSimulation.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/simulations/RunTimeLoadSimulations.scala" afterDir="false" />
+    <list default="true" id="0d25ce98-b29f-4d97-818b-7d66f4edc016" name="Changes" comment="add tests">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +72,25 @@
       <option name="presentableId" value="Default" />
       <updated>1702822865374</updated>
     </task>
+    <task id="LOCAL-00001" summary="add tests">
+      <created>1704182433427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704182433427</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add tests">
+      <created>1704182549200</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704182549200</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="add tests" />
   </component>
 </project>
