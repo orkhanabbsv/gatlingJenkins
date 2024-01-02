@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d25ce98-b29f-4d97-818b-7d66f4edc016" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/bodies/newGameTemplate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data/gameCSVFile.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/VideoGameDbSimulation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/csvfeeders/CSVFeeder.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/csvfeeders/ComplexCustomFeeder.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/csvfeeders/CustomFeeder.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/finalSimulation/VideoGameFullTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/scriptfundamentals/AddPauseTime.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/scriptfundamentals/Authenticate.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/scriptfundamentals/CheckResponseBodyAndExtract.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/scriptfundamentals/CheckResponseCode.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/scriptfundamentals/CodeReuse.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/simulations/BaseLoadSimulation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/simulations/FixedLoadSimulations.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/simulations/RampLoadSimulation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/videogamedb/simulations/RunTimeLoadSimulations.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2ZfpCzpUJynGhaFFglGgZLPT6wb" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Engine" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Engine" />
+      <module name="gatling-maven-plugin-demo-scala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Engine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d25ce98-b29f-4d97-818b-7d66f4edc016" name="Changes" comment="" />
+      <created>1702822865374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702822865374</updated>
+    </task>
+    <servers />
+  </component>
+</project>
